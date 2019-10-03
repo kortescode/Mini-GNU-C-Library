@@ -14,7 +14,7 @@ Mini GNU C Library is an Assembly library which contains the following functions
 - [strpbrk(3)](https://linux.die.net/man/3/strpbrk)
 - [strstr(3)](https://linux.die.net/man/3/strstr)
 
-## Installation
+## Compilation
 
 To build the library, use:
 
@@ -22,12 +22,6 @@ To build the library, use:
 make all
 ```
 
-## Contact
-
-[Henri Hardillier](https://www.linkedin.com/in/henrihardillier/) - [http://kortes.io/](http://kortes.io/)
-
-Project Link: [https://github.com/kortescode/Mini-GNU-C-Library](https://github.com/kortescode/Mini-GNU-C-Library)
-
 ## License
 
-Distributed under the [Apache License](http://www.apache.org/licenses/). See `LICENSE` for more information.
+Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/). See [`LICENSE`](LICENSE) for more information.
