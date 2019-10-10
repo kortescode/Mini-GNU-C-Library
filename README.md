@@ -16,7 +16,7 @@ Mini GNU C Library is an Assembly library which contains the following functions
 
 ## Requirements
 
-Building the library requires the following tools:
+Building the library requires the following tool:
 - NASM command (see [www.nasm.us](https://nasm.us/))
 ```bash
 sudo apt-get install nasm
