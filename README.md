@@ -1,4 +1,4 @@
-# Mini GNU C Library
+# Mini GNU C Library [![Build Status](https://travis-ci.org/kortescode/Mini-GNU-C-Library.svg?branch=master)](https://travis-ci.org/kortescode/Mini-GNU-C-Library)
 
 Mini GNU C Library is an Assembly library which contains the following functions:
 - [memcpy(3)](https://linux.die.net/man/3/memcpy)
@@ -14,6 +14,13 @@ Mini GNU C Library is an Assembly library which contains the following functions
 - [strpbrk(3)](https://linux.die.net/man/3/strpbrk)
 - [strstr(3)](https://linux.die.net/man/3/strstr)
 
+## Requirements
+
+Building the library requires the following tool:
+- NASM command (see [www.nasm.us](https://nasm.us/))
+```bash
+sudo apt-get install nasm
+```
 ## Compilation
 
 To build the library, use:
